@@ -19,8 +19,8 @@ Once you're done exploring the different ways to interract with AWS please fill 
 
 | Method                           | :thumbsup: Pros | :thumbsdown: Cons |
 |:---------------------------------|:----------------|:------------------|
-| AWS Console                      | -               | -                 |
-|                                  | -               | -                 |
+| AWS Console                      | - User friendly              | -  Cant automate               |
+|                                  | -               | - Slow process                |
 |                                  | -               | -                 |
 |                                  | -               | -                 |
 |                                  | -               | -                 |
