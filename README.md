@@ -29,8 +29,8 @@ Once you're done exploring the different ways to interract with AWS please fill 
 
 | Method  | :thumbsup: Pros | :thumbsdown: Cons |
 |:--------|:----------------|:------------------|
-| AWS Cli | -               | -                 |
-|         | -               | -                 |
+| AWS Cli | - Plus permisif              | -  Pas facile a prendre en main               |
+|         | - Peut automatiser              | - Pas de rollback de machine si on a fait une betise                |
 |         | -               | -                 |
 |         | -               | -                 |
 |         | -               | -                 |
